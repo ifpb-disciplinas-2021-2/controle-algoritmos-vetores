@@ -4,9 +4,12 @@ Este projeto está estruturado com os assuntos relacionados às estruturas homog
 
 # Aulas
 
-*[Aula 1 - vetores ](https://github.com/ifpb-disciplinas-2021-2/controle-algoritmos-vetores/commit/2dffac47f679897c7314899813395ff8985e96d5)* 
+*[Encontro síncrono 1 - vetores ](https://github.com/ifpb-disciplinas-2021-2/controle-algoritmos-vetores/commit/2dffac47f679897c7314899813395ff8985e96d5)* 
 
-*[Aula 2 - matrizes ](https://github.com/ifpb-disciplinas-2021-2/controle-algoritmos-vetores/commit/17f4557c0b5cc93a201079057b1254f1fc24f83c)*  
+*[Encontro síncrono 2 - matrizes ](https://github.com/ifpb-disciplinas-2021-2/controle-algoritmos-vetores/commit/17f4557c0b5cc93a201079057b1254f1fc24f83c)*  
+
+*[Encontro síncrono 3 - revisão ](https://github.com/ifpb-disciplinas-2021-2/controle-algoritmos-vetores/commit/ad53aeec424591116d3cec1913bef5e3c9817d70)*  
+
 
 ## Organização do projeto
 
